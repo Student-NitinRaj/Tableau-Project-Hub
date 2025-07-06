@@ -5,10 +5,11 @@ This repository contains interactive Tableau dashboards designed to analyze and 
 🔍 Key Features:
 Profit Distribution by Region
 Visualize regional performance through maps and bar charts, highlighting high and low-profit zones.
+Dashboard page1:- https://github.com/Student-NitinRaj/Tableau-Project-Hub/blob/main/Dashboard%20Page1.png
 
 Sales & Quantity by Customer
 Scatter plots show customer purchasing behavior with respect to sales and quantity ordered.
-
+Dashboard page2:- https://github.com/Student-NitinRaj/Tableau-Project-Hub/blob/main/Dashboard%20Page2.png
 Sub-Category Revenue & Profitability
 Tree maps and bar charts break down revenue and profit by product sub-categories.
 
@@ -23,6 +24,7 @@ Visual representation of profitable vs non-profitable orders to identify improve
 
 📁 Files Included:
 .twbx Tableau workbook files
+Order Dataset:- https://github.com/Student-NitinRaj/Tableau-Project-Hub/blob/main/Orders.xlsx
 
 Dashboard screenshots (PNG)
 
